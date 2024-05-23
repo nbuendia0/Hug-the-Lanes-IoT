@@ -27,7 +27,7 @@ Autonomous Vehicles (Ex. Teslas)
 
 ## Roadmap
 
-- v1.0 - January 23, 2024 \n
+- v1.0 - January 23, 2024 
 - v1.1 - February 6, 2024
 - v1.2 - February 13, 2024
 - v1.3 - February 27, 2024
